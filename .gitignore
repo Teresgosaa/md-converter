@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment
+.env
+
+# Claude Code
+.claude/
